@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+#des{
+	text-align:justify;
+}
+#hobbies{
+	text-transform:capitalize
+}
